@@ -1,0 +1,47 @@
+1. Total revenue per product from delivered and shipped orders
+Output:
+Wireless Mouse|2399.96
+Bluetooth Earbuds|1999
+Water Bottle|1794
+Desk Lamp|1598
+Mechanical Keyboard|1499.5
+Coffee Mug|597
+Laptop Stand|499
+Notebook|294
+
+2.Top 3 customers by total spending on delivered orders
+Output:
+Riya Sharma|1993.98
+Saswata Puri|1196
+Arjun Reddy|1096
+
+
+3.Monthly revenue from shipped and delivered orders:
+Output:
+2024-01|2846.48
+2024-02|1196
+2024-03|697.99
+2024-04|4693
+2024-05|1246.99
+
+
+4.Most popular product by quantity sold in delivered orders
+Output:
+Water Bottle|6
+
+5.Customers from the same city who bought the same product
+Output:
+(No rows printed)
+
+
+6.Products with low stock (less than 20 units)
+Output:
+(No rows printed)
+
+
+7.Summary of orders by status with total revenue
+Output:
+Shipped|4|5696.49
+Pending|3|4993.5
+Delivered|9|4983.97
+Cancelled|1|298
